@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "repository": "https://github.com/teal024/jb-vscode-theme.git",
   "contributes": {
     "themes": [
       {
