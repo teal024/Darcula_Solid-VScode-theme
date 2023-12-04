@@ -1,0 +1,21 @@
+{
+  "name": "jetbrains-new-dark-mod",
+  "displayName": "JetBrains New Dark Mod",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JetBrains New Dark Mod",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetBrains New Dark Mod-color-theme.json"
+      }
+    ]
+  }
+}
