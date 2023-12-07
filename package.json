@@ -2,8 +2,8 @@
   "name": "jetbrains-darcula-mod",
   "publisher": "teal",
   "displayName": "Darker Darcula Theme",
-  "description": "fork from https://marketplace.visualstudio.com/items?itemName=jussiemion.darcula-solid&ssr=false#review-details",
-  "version": "0.0.1",
+  "description": "Fusion of darcula-solid and dark_modern",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -19,5 +19,6 @@
         "path": "./themes/JetBrains New Dark Mod-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "favicon.png"
 }
